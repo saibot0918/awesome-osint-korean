@@ -1,5 +1,8 @@
 # Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## README.NOTE
+- 한국어로 번역 및 기능 설명을 적는 곳입니다. 이외의 정보는 최하단에 적어주세요!
+
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
 A curated list of amazingly awesome open source intelligence tools and resources.
